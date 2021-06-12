@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304678283836",
+    "firebase_url": "https://facy-detect-c3a52.firebaseio.com",
+    "project_id": "facy-detect-c3a52",
+    "storage_bucket": "facy-detect-c3a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304678283836:android:791cd36a79af8cbfc17139",
+        "android_client_info": {
+          "package_name": "com.example.face"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304678283836-719h228e49kaa9670i7e0r1k79kab45h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.face",
+            "certificate_hash": "0be333256390451d91317188c25e27692afe9d4b"
+          }
+        },
+        {
+          "client_id": "304678283836-776eflkbjf8crig3eumestvi636vhp5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT38KJNG_QuMgUaouhN0vRbcG0LnGd5K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304678283836-776eflkbjf8crig3eumestvi636vhp5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
